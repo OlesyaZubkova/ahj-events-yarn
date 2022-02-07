@@ -7,7 +7,9 @@
 
 ---
 
-### Игра с гоблинами  [![Build status](https://ci.appveyor.com/api/projects/status/gxtpvn3107ep6k91?svg=true)](https://ci.appveyor.com/project/OlesyaZubkova/ahj-events)
+### Игра с гоблинами  [![Build status](https://ci.appveyor.com/api/projects/status/ht8ghmf53b6tqtvy?svg=true)](https://ci.appveyor.com/project/OlesyaZubkova/ahj-events-yarn)
+
+
 
 
 
